@@ -1,13 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <iterator>
+#include <math.h>
 
 using namespace std;
-
-#define F0R(i, n) for (int i = 0; i < n; i++)
-#define ll long long
-#define fastio ios::sync_with_stdio(0); cin.tie(0)
-
 
 void solve(){
 	
